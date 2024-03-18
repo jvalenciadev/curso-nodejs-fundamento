@@ -1,0 +1,19 @@
+{
+  "name": "curso-nodejs-fundamentos",
+  "version": "1.0.0",
+  "description": "Aprendiendo curso de nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvalenciadev/curso-nodejs-fundamento.git"
+  },
+  "author": "Juan Valencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvalenciadev/curso-nodejs-fundamento/issues"
+  },
+  "homepage": "https://github.com/jvalenciadev/curso-nodejs-fundamento#readme"
+}
